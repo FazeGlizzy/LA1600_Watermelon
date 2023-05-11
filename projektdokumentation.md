@@ -19,12 +19,12 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ | Beschreibung                       |
-| ---- | --------------- | --- | ---------------------------------- |
-| 1    |                 |     | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |     |                                    |
+| US-№ | Verbindlichkeit | Typ       | Beschreibung                                                                                       |
+| ---- | --------------- | --------- | ---------------------------------------------------------------------------------------------------|
+| 1    | Muss            |Funktional |Als ein User möchte ich mit dem Hamburger Menu auf Mobilen Geräten Navigieren können                |
+| 2    | Kann            |Funktional |Els ein Lehrnender möchte ich Ankreuzen können welche Ziele ich heute abgeschlossen habe            |
+| 3    | Kann            |Qualität   |Als ein User möchte ich auf der Homepage von einer Professionellen und schönen Seite begrüsst werden|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: _Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️_.
 
 ### 1.3 Testfälle
 
