@@ -40,7 +40,12 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 
 ### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+Skizze der der Website
+![Screenshot 2023-05-11 100747](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/05099e08-813f-4beb-8804-c266b280695e)
+![Screenshot 2023-05-11 100816](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/564f6556-f0fd-49fd-9673-3db04170352e)
+![Screenshot 2023-05-11 100841](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/76c3ad6b-5dd5-4bd2-9ddd-21cae92c0838)
+![Screenshot 2023-05-11 100947](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/8ab2566e-918f-453d-8eb9-5cd58e7eb9b1)
+
 
 ## 2 Planen
 
