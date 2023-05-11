@@ -32,7 +32,7 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | -------------------------------------------------|
 | 1.1  |Website geöffnet|Homepage|Eine Slideshow wird angezeig                     |
-| 2.1  |Auf Mobilem gerät|Auf einer Site|Die Navigation wir zu einem HAmburger Menu|
+| 2.1  |Auf Mobilem gerät|Auf einer Site|Die Navigation wir zu einem Hamburger Menu|
 | 3.1  |Af einer Unterseite|Beim klicken auf ein Lehrnziel wird es durchgestrichen |
 | 4.1  |Mauszeiger auf einem Bild|Das Bild wird ein bisschen grösser               |
 
