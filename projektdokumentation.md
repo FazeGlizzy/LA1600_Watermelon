@@ -25,6 +25,7 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 | 2    | Muss            |Funktional |Als ein User möchte ich mit dem Hamburger Menu auf Mobilen Geräten Navigieren können                |
 | 3    | Kann            |Funktional |Els ein Lehrnender möchte ich Ankreuzen können welche Ziele ich heute abgeschlossen habe            |
 | 4    | Kann            |Qualität   |Als ein User möchte ich über Bilder Hovern können, die dann grösser werden                          |
+| 5    | Muss            |Funktional |Als ein Lehrnender möchte ich Lehrnkarten haben die sich drehen wenn ich draufklicke                |
 
 
 ### 1.3 Testfälle
@@ -35,6 +36,7 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 | 2.1  |Auf Mobilem gerät        |Auf einer Site|Die Navigation wir zu einem Hamburger Menu             |
 | 3.1  |Auf einer Unterseite     |klicken       |Beim klicken auf ein Lehrnziel wird es durchgestrichen |
 | 4.1  |Mauszeiger auf einem Bild|Hover         |Das Bild wird ein bisschen grösser                     |
+| 5.1  |Auf einer Unterseite     |Klick         |Karte kehrt sich um                                    |
 
 ### 1.4 Diagramme
 
