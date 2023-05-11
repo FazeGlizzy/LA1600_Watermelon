@@ -26,6 +26,7 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 | 3    | Kann            |Funktional |Els ein Lehrnender möchte ich Ankreuzen können welche Ziele ich heute abgeschlossen habe            |
 | 4    | Kann            |Qualität   |Als ein User möchte ich über Bilder Hovern können, die dann grösser werden                          |
 | 5    | Muss            |Funktional |Als ein Lehrnender möchte ich Lehrnkarten haben die sich drehen wenn ich draufklicke                |
+| 6    | Muss            |Funktional |Als ein Lehrnender möchte ich ein Leseverstehen bei welchem ich Fragen beantworten kann. (DE/EN)    |
 
 
 ### 1.3 Testfälle
@@ -57,8 +58,10 @@ Use Case-Diagramm
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 11.05 |  Steven   |  Erstellen einer SlideShow   |    ca 1h           |
+| 1.B  | 18.05 |  Steven         |   SlideShow fertigstellen           | ca 1h              |
+| 2.A  | 11.05 |  Yanik    |  Erstellen des Burgemenus            |  ca. 45min             |
+| 2.B  | 18.05 |  Yanik    |  Fertigstellen des Burgemenus           | ca. 45min            |
 
 Total:
 
