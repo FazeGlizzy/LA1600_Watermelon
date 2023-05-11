@@ -23,7 +23,8 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 | ---- | --------------- | --------- | ---------------------------------------------------------------------------------------------------|
 | 1    | Muss            |Funktional |Als ein User möchte ich mit dem Hamburger Menu auf Mobilen Geräten Navigieren können                |
 | 2    | Kann            |Funktional |Els ein Lehrnender möchte ich Ankreuzen können welche Ziele ich heute abgeschlossen habe            |
-| 3    | Kann            |Qualität   |Als ein User möchte ich auf der Homepage von einer Professionellen und schönen Seite begrüsst werden|
+| 3    | Kann            |Qualität   |Als ein User möchte ich auf der Homepage von einer professionellen Slideshow begrüsst werden        |
+| 4    | Kann            |Qualität   |Als ein User möchte ich über Bilder Hovern können, die dann grösser werden                          |
 
 
 ### 1.3 Testfälle
