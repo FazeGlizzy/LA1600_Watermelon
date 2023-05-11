@@ -65,11 +65,11 @@ Use Case-Diagramm
 | 6.A  | 11.05 |  Lukas    |  Text einfügen wie auch die Fragen          |  ca. 45min             |
 | 6.B  | 18.05 |  Lukas    |  Erstellen der abfrage Box           | ca. 45min            |
 | 6.D  | 11.05 |  Lukas    |  Tägliche Ziele erstellen            |  ca. 45min             |
-| 6.C  | 18.05 |  Lukas    |  Animation bei fertigstellen der Ziele           | ca. 45min            |
+| 3.A  | 18.05 |  Lukas    |  Animation bei fertigstellen der Ziele           | ca. 45min            |
 | 7.A  | 11.05 |  Brandon    |  Text einfügen wie auch die Fragen          |  ca. 45min             |
 | 7.B  | 18.05 |  Brandon    |  Erstellen der abfrage Box           | ca. 45min            |
 | 7.D  | 11.05 |  Brandon    |  Tägliche Ziele erstellen            |  ca. 45min             |
-| 7.D  | 18.05 |  Brandon    |  Animation bei fertigstellen der Ziele           | ca. 45min            |
+| 3.A  | 18.05 |  Brandon    |  Animation bei fertigstellen der Ziele           | ca. 45min            |
 Total:
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
