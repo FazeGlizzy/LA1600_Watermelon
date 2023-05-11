@@ -29,7 +29,7 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage            | Eingabe      | Erwartete Ausgabe |
+| TC-№ | Ausgangslage            | Eingabe      | Erwartete Ausgabe                                     |
 | ---- | ----------------------- | -------------| ------------------------------------------------------|
 | 1.1  |Website geöffnet         |Homepage      |Eine Slideshow wird angezeig                           |
 | 2.1  |Auf Mobilem gerät        |Auf einer Site|Die Navigation wir zu einem Hamburger Menu             |
