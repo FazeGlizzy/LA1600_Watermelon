@@ -62,8 +62,9 @@ Use Case-Diagramm
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 11.05 |  Steven   |  Erstellen einer SlideShow   |    ca 1h           |
 | 1.B  | 18.05 |  Steven   |   SlideShow fertigstellen           | ca 1h              |
+| 1.C  | 18.05 |  Steven   |   SlideShow anpassen          | ca 45min              |
 | 5.A  | 11.05 |  Steven   |  Erstellen der Karteikarten   |    ca 1h           |
-| 5.B  | 11.05 |  Steven   |  Fertigstellen einer SlideShow   |    ca 1h           |
+| 5.B  | 11.05 |  Steven   |  Fertigstellen einer Karteikarten   |    ca 1h           |
 | 2.A  | 11.05 |  Yanik    |  Erstellen der Navigation            |  ca. 45min             |
 | 2.B  | 18.05 |  Yanik    |  Erstellen der Burger Menus           | ca. 45min            |
 | 2.C  | 18.05 |  Yanik    |  Die Media Querrys einstellen           | ca. 45min            |
@@ -72,10 +73,12 @@ Use Case-Diagramm
 | 4.B  | 11.05 |  Yanik    |  Fertigstellen der Hovereffekte für Bilder           |  ca. 1h            |
 | 6.A  | 11.05 |  Lukas    |  Text einfügen wie auch die Fragen          |  ca. 45min             |
 | 6.B  | 18.05 |  Lukas    |  Erstellen der abfrage Box           | ca. 45min            |
+| 6.C  | 18.05 |  Lukas    |  Richtig/Falsch eingaben einstellen           | ca. 45min            |
 | 6.D  | 11.05 |  Lukas    |  Tägliche Ziele erstellen            |  ca. 45min             |
 | 3.A  | 18.05 |  Lukas    |  Animation bei fertigstellen der Ziele           | ca. 45min            |
 | 7.A  | 11.05 |  Brandon    |  Text einfügen wie auch die Fragen          |  ca. 45min             |
 | 7.B  | 18.05 |  Brandon    |  Erstellen der abfrage Box           | ca. 45min            |
+| 7.C  | 18.05 |  Brandon    |  Richtig/Falsch eingaben einstellen           | ca. 45min            |
 | 7.D  | 11.05 |  Brandon    |  Tägliche Ziele erstellen            |  ca. 45min             |
 | 3.A  | 18.05 |  Brandon    |  Animation bei fertigstellen der Ziele           | ca. 45min            |
 Total:
