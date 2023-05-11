@@ -29,12 +29,12 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 
 ### 1.3 Testfälle
 
-| TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
-| ---- | ------------ | ------- | -------------------------------------------------|
-| 1.1  |Website geöffnet|Homepage|Eine Slideshow wird angezeig                     |
-| 2.1  |Auf Mobilem gerät|Auf einer Site|Die Navigation wir zu einem Hamburger Menu|
-| 3.1  |Af einer Unterseite|Beim klicken auf ein Lehrnziel wird es durchgestrichen |
-| 4.1  |Mauszeiger auf einem Bild|Das Bild wird ein bisschen grösser               |
+| TC-№ | Ausgangslage            | Eingabe      | Erwartete Ausgabe |
+| ---- | ----------------------- | -------------| ------------------------------------------------------|
+| 1.1  |Website geöffnet         |Homepage      |Eine Slideshow wird angezeig                           |
+| 2.1  |Auf Mobilem gerät        |Auf einer Site|Die Navigation wir zu einem Hamburger Menu             |
+| 3.1  |Auf einer Unterseite     |klicken       |Beim klicken auf ein Lehrnziel wird es durchgestrichen |
+| 4.1  |Mauszeiger auf einem Bild|Hover         |Das Bild wird ein bisschen grösser                     |
 
 ### 1.4 Diagramme
 
