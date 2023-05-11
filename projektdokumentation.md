@@ -15,7 +15,7 @@ Warermelon/Salie, Spaqi, Heiniger, Müller
 
 Eine Lehrnseite mit den Informationen und unter die Lehrnziele dazu.
 
-Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stellen. Die Webseite sollte CSS only sein mit dem Ziel uns am Ende des projektes gut mit CSS auszukennen.
+Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stellen. Die Webseite sollte CSS only sein mit dem Ziel uns am Ende des projektes gut mit CSS auszukennen. Die Fähigkeiten zu lehrnen mit HTML umzugehen ist auch ein wichtiger Teil des Projektes.
 
 ### 1.2 User Stories
 
