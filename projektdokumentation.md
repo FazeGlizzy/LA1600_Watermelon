@@ -38,6 +38,8 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 | 3.1  |Auf einer Unterseite     |klicken       |Beim klicken auf ein Lehrnziel wird es durchgestrichen |
 | 4.1  |Mauszeiger auf einem Bild|Hover         |Das Bild wird ein bisschen grösser                     |
 | 5.1  |Auf einer Unterseite     |Klick         |Karte kehrt sich um                                    |
+| 6.1  |Auf der De Siete         |Lesen         |Richtig oder Falsch                                    |
+| 7.1  |Auf der EN Seite         |lesen         |Richtig oder Falsch                                    |
 
 ### 1.4 Diagramme
 
@@ -60,8 +62,12 @@ Use Case-Diagramm
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  | 11.05 |  Steven   |  Erstellen einer SlideShow   |    ca 1h           |
 | 1.B  | 18.05 |  Steven   |   SlideShow fertigstellen           | ca 1h              |
+| 5.A  | 11.05 |  Steven   |  Erstellen der Karteikarten   |    ca 1h           |
+| 5.B  | 11.05 |  Steven   |  Fertigstellen einer SlideShow   |    ca 1h           |
 | 2.A  | 11.05 |  Yanik    |  Erstellen des Burgemenus            |  ca. 45min             |
 | 2.B  | 18.05 |  Yanik    |  Fertigstellen des Burgemenus           | ca. 45min            |
+| 4.A  | 11.05 |  Yanik    |  Erstellen der Hovereffekte für Bilder           |  ca. 1h            |
+| 4.B  | 11.05 |  Yanik    |  Fertigstellen der Hovereffekte für Bilder           |  ca. 1h            |
 | 6.A  | 11.05 |  Lukas    |  Text einfügen wie auch die Fragen          |  ca. 45min             |
 | 6.B  | 18.05 |  Lukas    |  Erstellen der abfrage Box           | ca. 45min            |
 | 6.D  | 11.05 |  Lukas    |  Tägliche Ziele erstellen            |  ca. 45min             |
