@@ -39,7 +39,7 @@ Das Ziel ist es Eine Webseite zu erstellen und diese per Github online zu stelle
 | 4.1  |Mauszeiger auf einem Bild|Hover         |Das Bild wird ein bisschen grösser                     |
 | 5.1  |Auf einer Unterseite     |Klick         |Karte kehrt sich um                                    |
 | 6.1  |Auf der De Siete         |Lesen         |Richtig oder Falsch                                    |
-| 7.1  |Auf der EN Seite         |lesen         |Richtig oder Falsch                                    |
+| 7.1  |Auf der EN Seite         |Lesen         |Richtig oder Falsch                                    |
 
 ### 1.4 Diagramme
 
@@ -89,13 +89,15 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gute erweiterungs möglichkeiten hat. Zudem haben wir uns dazu entschieden, das jeder sein eigener Fokus in der Programmierung hat sprich Brandon und ich sind für die Leseverstehen zuständing Yanik für das Hamburgermenu etc.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  | 11.05      | Steven          |   1h            |     angefangen              |
+| 6.A  | 11.05      | Lukas          |  45min             |   angefangen                |
+| 2.A  | 11.05      |  Yanik         |   45            |     angefangen              |
 | ...  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
