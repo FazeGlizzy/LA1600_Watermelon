@@ -47,6 +47,12 @@ Skizze der der Website
 ![Screenshot 2023-05-11 100947](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/8ab2566e-918f-453d-8eb9-5cd58e7eb9b1)
 
 
+Use Case-Diagramm
+
+![image](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/68f089bf-6cbc-40b4-b983-7510337c449f)
+
+
+
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
