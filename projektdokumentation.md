@@ -64,8 +64,10 @@ Use Case-Diagramm
 | 1.B  | 18.05 |  Steven   |   SlideShow fertigstellen           | ca 1h              |
 | 5.A  | 11.05 |  Steven   |  Erstellen der Karteikarten   |    ca 1h           |
 | 5.B  | 11.05 |  Steven   |  Fertigstellen einer SlideShow   |    ca 1h           |
-| 2.A  | 11.05 |  Yanik    |  Erstellen des Burgemenus            |  ca. 45min             |
-| 2.B  | 18.05 |  Yanik    |  Fertigstellen des Burgemenus           | ca. 45min            |
+| 2.A  | 11.05 |  Yanik    |  Erstellen der Navigation            |  ca. 45min             |
+| 2.B  | 18.05 |  Yanik    |  Erstellen der Burger Menus           | ca. 45min            |
+| 2.C  | 18.05 |  Yanik    |  Die Media Querrys einstellen           | ca. 45min            |
+| 2.D  | 18.05 |  Yanik    |  Die Navigation gestalten/anpassen           | ca. 45min            |
 | 4.A  | 11.05 |  Yanik    |  Erstellen der Hovereffekte für Bilder           |  ca. 1h            |
 | 4.B  | 11.05 |  Yanik    |  Fertigstellen der Hovereffekte für Bilder           |  ca. 1h            |
 | 6.A  | 11.05 |  Lukas    |  Text einfügen wie auch die Fragen          |  ca. 45min             |
