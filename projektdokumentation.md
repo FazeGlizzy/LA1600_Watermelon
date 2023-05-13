@@ -52,7 +52,7 @@ Skizze der der Website
 
 Use Case-Diagramm
 
-![image](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/68f089bf-6cbc-40b4-b983-7510337c449f)
+![image](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/6cc2c07b-b625-4356-9bb9-0a3eff4454e4)
 
 
 
