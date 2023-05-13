@@ -13,7 +13,7 @@ Warermelon/Salie, Spaqi, Heiniger, Müller
 
 ### 1.1 Ihr Projekt
 
-Wir erstellen als Gruppe eine Website in welcher man zuden Themen Mathe, Deutsch und Englisch Aufgaben lösen kann.
+Wir erstellen als Gruppe eine Website, in welcher man zuden Themen Mathe, Deutsch und Englisch Aufgaben lösen kann.
 
 Das Ziel ist es eine Webseite zu erstellen und diese per Github online zu stellen. Die Webseite sollte CSS only sein mit dem Ziel uns am Ende des Projektes gut mit CSS auszukennen. Natürlich wir die Website nicht nur mit CSS geschrieben sondern auch mit Html.
 
