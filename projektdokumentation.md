@@ -98,7 +98,10 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 1.A  | 11.05      | Steven          |   1h            |     angefangen              |
 | 6.A  | 11.05/25.05       | Lukas          |  45min             |   50min                |
 | 2.A  | 11.05      |  Yanik         |   45            |     angefangen              |
-| 6.D  | 25.05      | Lukas          |  45             |       45min            |
+| 6.D  | 25.05      | Lukas          |  45             |       1h         |
+| 6.A  | 25.05      | Lukas        |  45             |      45min           |
+| 7.D  | 25.05      | Brandon          |  45             |       1h         |
+| 7.A  | 25.05      |Brandon        |  45             |      45min           |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
