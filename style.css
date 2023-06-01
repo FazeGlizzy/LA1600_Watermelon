@@ -216,8 +216,8 @@ footer {
     overflow: hidden;
     height: 1080px;
     width: 1920px;
-    margin-left: 100px;
-    margin-top: 20px;
+    margin-left: 160px;
+    margin-top: 32px;
 }
 
 @-webkit-keyframes slide_animation {
