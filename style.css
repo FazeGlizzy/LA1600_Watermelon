@@ -215,7 +215,7 @@ footer {
 .slider-frame {
     overflow: hidden;
     height: 717px;
-    width: 100%;
+    width: 1200px;
     
     
 }
@@ -230,27 +230,27 @@ footer {
     }
 
     20% {
-        left: 100%;
+        left: 1200px;
     }
 
     30% {
-        left: 100%;
+        left: 1200px;
     }
 
     40% {
-        left: 200%;
+        left: 2400px;
     }
 
     50% {
-        left: 200%;
+        left: 2400px;
     }
 
     60% {
-        left: 100%;
+        left: 1200px;
     }
 
     70% {
-        left: 100%;
+        left: 1200px;
     }
 
     80% {
@@ -267,9 +267,9 @@ footer {
 }
 
 .slide-images {
-    width: 300%;
+    width: 3600;
     height: 717px;
-    margin: 0 0 0 -200%;
+    margin: 0 0 0 -2400px;
     position: relative;
     -webkit-animation-name: slide_animation;
     -webkit-animation-duration: 33s;
@@ -280,7 +280,7 @@ footer {
 
 .img-container {
     height: 717px;
-    width: 100%;
+    width: 1200px;
     position: relative;
     float: left;
 }
