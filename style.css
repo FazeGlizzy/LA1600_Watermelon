@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 header {
-  background-color: #212a3e;
+  background-color: #d3f6d1;
   grid-row: 1;
   grid-column: 1 / span 2;
 }
