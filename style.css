@@ -280,7 +280,7 @@ footer {
 
 .img-container {
     height: 717px;
-    width: 1200px;
+    width: 100%;
     position: relative;
     float: left;
 }
