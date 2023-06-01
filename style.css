@@ -215,7 +215,7 @@ footer {
 .slider-frame {
     overflow: hidden;
     height: 717px;
-    width: 1200px;
+    width: 100%;
     
     
 }
@@ -230,27 +230,27 @@ footer {
     }
 
     20% {
-        left: 1200px;
+        left: 100%;
     }
 
     30% {
-        left: 1200px;
+        left: 100%;
     }
 
     40% {
-        left: 2400px;
+        left: 200%;
     }
 
     50% {
-        left: 2400px;
+        left: 200%;
     }
 
     60% {
-        left: 1200px;
+        left: 100%;
     }
 
     70% {
-        left: 1200px;
+        left: 100%;
     }
 
     80% {
@@ -267,7 +267,7 @@ footer {
 }
 
 .slide-images {
-    width: 3600px;
+    width: 300%;
     height: 717px;
     margin: 0 0 0 -2400px;
     position: relative;
@@ -280,7 +280,7 @@ footer {
 
 .img-container {
     height: 717px;
-    width: 1200px;
+    width: 100%;
     position: relative;
     float: left;
 }
