@@ -267,7 +267,7 @@ footer {
 }
 
 .slide-images {
-    width: 3600px;
+    width: 100%;
     height: 717px;
     margin: 0 0 0 -2400px;
     position: relative;
@@ -280,7 +280,7 @@ footer {
 
 .img-container {
     height: 717px;
-    width: 100%;
+    width: 1200px;
     position: relative;
     float: left;
 }
