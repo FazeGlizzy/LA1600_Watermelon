@@ -104,7 +104,11 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 6.B  | 01.06     |Lukas        |  45             |      angefangen           |
 | 7.A  | 01.06      |Brandon        |  45             |      angefangen           |
 | 7.A  | 01.06      |Brandon        |  45             |      angefangen           |
-
+| 2.B  | 25.05      |  Yanik         |   45            |     1h              |
+| 2.C  | 25.05      |  Yanik         |   45            |     angefangen              |
+| 2.D  | 25.05      |  Yanik         |   45            |     45min            |
+| 4.A  | 25.05      |  Yanik         |   45            |     45min              |
+| 4.B  | 01.06      |  Yanik         |   45            |     angefangen              |
 
 ## 5 Kontrollieren
 
