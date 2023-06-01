@@ -214,10 +214,10 @@ footer {
 
 .slider-frame {
     overflow: hidden;
-    height: 1080px;
-    width: 1920px;
-    margin-left: 160px;
-    margin-top: 32px;
+    height: 717px;
+    width: 1200px;
+    margin-left: 100px;
+    margin-top: 20px;
 }
 
 @-webkit-keyframes slide_animation {
@@ -230,27 +230,27 @@ footer {
     }
 
     20% {
-        left: 1920px;
+        left: 1200px;
     }
 
     30% {
-        left: 1920px;
+        left: 1200px;
     }
 
     40% {
-        left: 3840px;
+        left: 2400px;
     }
 
     50% {
-        left: 3840px;
+        left: 2400px;
     }
 
     60% {
-        left: 1920px;
+        left: 1200px;
     }
 
     70% {
-        left: 1920px;
+        left: 1200px;
     }
 
     80% {
@@ -267,9 +267,9 @@ footer {
 }
 
 .slide-images {
-    width: 5760px;
-    height: 1080px;
-    margin: 0 0 0 -3840px;
+    width: 3600px;
+    height: 717px;
+    margin: 0 0 0 -2400px;
     position: relative;
     -webkit-animation-name: slide_animation;
     -webkit-animation-duration: 33s;
@@ -279,8 +279,8 @@ footer {
 }
 
 .img-container {
-    height: 1080px;
-    width: 1920px;
+    height: 717px;
+    width: 1200px;
     position: relative;
     float: left;
 }
