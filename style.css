@@ -214,8 +214,8 @@ footer {
 
 .slider-frame {
     overflow: hidden;
-    height: 800px;
-    width: 1200px;
+    height: 1080px;
+    width: 1920px;
     margin-left: 100px;
     margin-top: 20px;
 }
@@ -267,7 +267,7 @@ footer {
 }
 
 .slide-images {
-    width: 3600px;
+    width: 5760px;
     height: 800px;
     margin: 0 0 0 -2400px;
     position: relative;
