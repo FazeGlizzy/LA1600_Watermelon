@@ -83,9 +83,7 @@ Use Case-Diagramm
 | 3.A  | 18.05 |  Brandon    |  Animation bei fertigstellen der Ziele           | ca. 45min            |
 Total:
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
@@ -102,8 +100,11 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 6.A  | 25.05      | Lukas        |  45             |      45min           |
 | 7.D  | 25.05      | Brandon          |  45             |       1h         |
 | 7.A  | 25.05      |Brandon        |  45             |      45min           |
+| 6.B  | 01.06      |Lukas       |  45             |      angefangen            |
+| 6.B  | 01.06     |Lukas        |  45             |      angefangen           |
+| 7.A  | 01.06      |Brandon        |  45             |      angefangen           |
+| 7.A  | 01.06      |Brandon        |  45             |      angefangen           |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
@@ -112,11 +113,11 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit:
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+
 
 ## 7 Quellen
 https://alvarotrigo.com/blog/hamburger-menu-css/
