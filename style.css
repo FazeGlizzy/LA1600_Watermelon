@@ -230,27 +230,27 @@ footer {
     }
 
     20% {
-        left: 1200px;
+        left: 1920px;
     }
 
     30% {
-        left: 1200px;
+        left: 1920px;
     }
 
     40% {
-        left: 2400px;
+        left: 3840px;
     }
 
     50% {
-        left: 2400px;
+        left: 3840px;
     }
 
     60% {
-        left: 1200px;
+        left: 1920px;
     }
 
     70% {
-        left: 1200px;
+        left: 1920px;
     }
 
     80% {
@@ -268,8 +268,8 @@ footer {
 
 .slide-images {
     width: 5760px;
-    height: 800px;
-    margin: 0 0 0 -2400px;
+    height: 1080px;
+    margin: 0 0 0 -3840px;
     position: relative;
     -webkit-animation-name: slide_animation;
     -webkit-animation-duration: 33s;
