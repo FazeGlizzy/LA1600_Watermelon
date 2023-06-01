@@ -269,7 +269,7 @@ footer {
 .slide-images {
     width: 300%;
     height: 717px;
-    margin: 0 0 0 -2400px;
+    margin: 0 0 0 -200%;
     position: relative;
     -webkit-animation-name: slide_animation;
     -webkit-animation-duration: 33s;
