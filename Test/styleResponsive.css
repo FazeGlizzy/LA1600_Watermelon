@@ -1,0 +1,73 @@
+.grid-container {
+
+  display: grid;
+  grid-template-rows: 50px auto 50px;
+  grid-template-columns: 100px 2fr 1fr;
+
+}
+
+header {
+  background-color: #ff7600;
+  grid-column: 1/ span 3;
+
+}
+
+nav {
+  background-color: #ff00c8;
+
+}
+
+main {
+  background-color: #5dc8cd;
+
+}
+
+aside {
+  background-color: #afafe0;
+
+}
+
+footer {
+  background-color: #006064;
+  grid-column: 1/ span 3;
+}
+
+@media (max-width: 1000px) {
+
+  .grid-container {
+
+    display: grid;
+    grid-template-rows: auto auto auto auto;
+    grid-template-columns: 2fr 1fr;
+
+  }
+
+  header {
+    background-color: #ff7600;
+    grid-column: 1 / span 2;
+
+  }
+
+  nav {
+    background-color: #ff00c8;
+    grid-column: 1/ span 2;
+
+  }
+
+  main {
+    background-color: #5dc8cd;
+
+  }
+
+  aside {
+    background-color: #afafe0;
+
+  }
+
+  footer {
+    background-color: #006064;
+    grid-column: 1/ span 2;
+  }
+
+
+}
