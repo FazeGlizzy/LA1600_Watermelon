@@ -114,8 +114,15 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 20.06.23|  funktioniert        | Lukas       |
+| 2.1  | 20.06.23|  funktioniert           | Lukas        |
+| 3.1  | 20.06.23| funktioniert   nicht         | Lukas        |
+| 4.1  | 20.06.23| funktioniert   nicht         | Lukas        |
+| 5.1  | 20.06.23| funktioniert   nicht          | Lukas        |
+| 6.1  | 20.06.23| funktioniert   nicht          | Lukas        |
+| 7.1  | 20.06.23| funktioniert   nicht          | Lukas        |
+| 8.1  | 20.06.23| funktioniert   nicht          | Lukas        |
+
 
 Fazit:
 
