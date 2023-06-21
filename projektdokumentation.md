@@ -113,6 +113,7 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 4.B  | 01.06      |  Yanik         |   45            |     angefangen              |
 | 6.E  | 22.06      |  Lukas         |   45            |    2h          |
 | 7.E  | 22.06      |  Ursprünglich Brandon/ gemacht Lukas         |   45            |    20min          |
+| 7.B  | 22.06      |  Brandon       |   45            |    angefangen    |
 
 ## 5 Kontrollieren
 
