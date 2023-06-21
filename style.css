@@ -304,14 +304,19 @@ footer {
       display: none;
     }
 
+     .label1 {
+      padding: 10px 20px;
+      border: 1px solid #ccc;
+      cursor: pointer;
+    }
 
-
-    #greenCheckbox:checked + label {
+    #greenCheckbox:checked + label1 {
       background-color: green;
     }
 
-    #redCheckbox:checked + label {
+    #redCheckbox:checked + label1 {
       background-color: red;
     }
+ 
 
 
