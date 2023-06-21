@@ -81,6 +81,7 @@ Use Case-Diagramm
 | 7.B  | 18.05 |  Brandon    |  Erstellen der abfrage Box           | ca. 45min            |
 | 7.C  | 18.05 |  Brandon    |  Richtig/Falsch eingaben einstellen           | ca. 45min            |
 | 7.D  | 11.05 |  Brandon    |  Tägliche Ziele erstellen            |  ca. 45min             |
+| 8.E  | 11.05 |  Brandon    |  Tägliche Ziele erstellen            |  ca. 45min             |
 | 3.A  | 18.05 |  Brandon    |  Animation bei fertigstellen der Ziele           | ca. 45min            |
 Total:
 
@@ -111,6 +112,7 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 4.A  | 25.05      |  Yanik         |   45            |     45min              |
 | 4.B  | 01.06      |  Yanik         |   45            |     angefangen              |
 | 6.E  | 22.06      |  Lukas         |   45            |    2h          |
+| 7.E  | 22.06      |  Ursprünglich Brandon/ gemacht Lukas         |   45            |    20min          |
 
 ## 5 Kontrollieren
 
