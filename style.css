@@ -304,11 +304,7 @@ footer {
       display: none;
     }
 
-    label {
-      padding: 10px 20px;
-      border: 1px solid #ccc;
-      cursor: pointer;
-    }
+
 
     #greenCheckbox:checked + label {
       background-color: green;
