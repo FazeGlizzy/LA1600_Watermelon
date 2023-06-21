@@ -300,3 +300,22 @@ footer {
         text-decoration: line-through;
     }
 
+    input[type="checkbox"] {
+      display: none;
+    }
+
+    label {
+      padding: 10px 20px;
+      border: 1px solid #ccc;
+      cursor: pointer;
+    }
+
+    #greenCheckbox:checked + label {
+      background-color: green;
+    }
+
+    #redCheckbox:checked + label {
+      background-color: red;
+    }
+
+
