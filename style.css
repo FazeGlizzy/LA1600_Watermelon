@@ -288,3 +288,10 @@ footer {
   background-color: #f1f6f9;
 }
 
+.checkbox {
+        display: none;
+    }
+.checkbox:checked + label {
+        text-decoration: line-through;
+    }
+
