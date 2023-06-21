@@ -288,10 +288,15 @@ footer {
   background-color: #f1f6f9;
 }
 
-.checkbox {
+  .strikethrough {
+        text-decoration: line-through;
+    }
+
+    .checkbox {
         display: none;
     }
-.checkbox:checked + label {
+
+    .checkbox:checked + label {
         text-decoration: line-through;
     }
 
