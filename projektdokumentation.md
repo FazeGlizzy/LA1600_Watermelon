@@ -6,8 +6,8 @@ Warermelon/Salie, Spaqi, Heiniger, Müller
 | Datum | Version | Zusammenfassung                |
 | ----- | ------- | ------------------------------ |
 | 11.05 | 0.0.1   | Projektdokumentation erstellt. |
-|       | ...     |                                |
-|       | 1.0.0   |                                |
+| 15.06.23      | 0.1.0     |  Prototyp fertig                              |
+|   22.06.23    | 1.0.0   |  Website für den Release fähig, jedoch noch nicht 100% fertig.   |
 
 ## 1 Informieren
 
@@ -101,7 +101,7 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 7.D  | 25.05      | Brandon          |  45             |       1h         |
 | 7.A  | 25.05      |Brandon        |  45             |      45min           |
 | 6.B  | 01.06      |Lukas       |  45             |      angefangen            |
-| 6.B  | 01.06     |Lukas        |  45             |      angefangen           |
+| 6.C  | 01.06     |Lukas        |  45             |      angefangen           |
 | 7.A  | 01.06      |Brandon        |  45             |      angefangen           |
 | 7.A  | 01.06      |Brandon        |  45             |      angefangen           |
 | 2.B  | 25.05      |  Yanik         |   45            |     1h              |
