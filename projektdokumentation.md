@@ -75,6 +75,7 @@ Use Case-Diagramm
 | 6.B  | 18.05 |  Lukas    |  Erstellen der abfrage Box           | ca. 45min            |
 | 6.C  | 18.05 |  Lukas    |  Richtig/Falsch eingaben einstellen           | ca. 45min            |
 | 6.D  | 11.05 |  Lukas    |  Tägliche Ziele erstellen            |  ca. 45min             |
+| 6.E  | 22.06 |  Lukas    |  Tägliche Ziele durchsteichen können            |  ca. 45min             |
 | 3.A  | 18.05 |  Lukas    |  Animation bei fertigstellen der Ziele           | ca. 45min            |
 | 7.A  | 11.05 |  Brandon    |  Text einfügen wie auch die Fragen          |  ca. 45min             |
 | 7.B  | 18.05 |  Brandon    |  Erstellen der abfrage Box           | ca. 45min            |
@@ -109,6 +110,7 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 2.D  | 25.05      |  Yanik         |   45            |     45min            |
 | 4.A  | 25.05      |  Yanik         |   45            |     45min              |
 | 4.B  | 01.06      |  Yanik         |   45            |     angefangen              |
+| 6.E  | 22.06      |  Lukas         |   45            |    2h          |
 
 ## 5 Kontrollieren
 
@@ -122,9 +124,10 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 6.1  | 20.06.23| funktioniert   nicht          | Lukas        |
 | 7.1  | 20.06.23| funktioniert   nicht          | Lukas        |
 | 8.1  | 20.06.23| funktioniert   nicht          | Lukas        |
+| 3.1  | 21.06.23| funktioniert     | Lukas        |
 
 
-Fazit:
+Fazit: Stand 20.06 ist die Website fast fertig jedoch fehle wichtige Elemente wie das Karten swappen etc.
 
 ## 6 Auswerten
 
