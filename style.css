@@ -288,6 +288,14 @@ footer {
   background-color: #f1f6f9;
 }
 
+ 
+ 
+.engQ {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
   .strikethrough {
         text-decoration: line-through;
     }
@@ -304,7 +312,7 @@ footer {
       display: none;
     }
 
-     .label {
+    label {
       padding: 10px 20px;
       border: 1px solid #ccc;
       cursor: pointer;
@@ -317,10 +325,4 @@ footer {
     #redCheckbox:checked + label {
       background-color: red;
     }
- 
-.engQ {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
 
