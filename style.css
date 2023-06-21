@@ -318,5 +318,9 @@ footer {
       background-color: red;
     }
  
-
+.engQ {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
