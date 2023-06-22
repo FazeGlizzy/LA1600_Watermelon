@@ -337,4 +337,9 @@ footer {
     #redCheckbox:checked + label {
       background-color: red;
     }
+.img-container {
+  height: 717px;
+  width: 1200px;
+  z-index: -1;
+}
 
