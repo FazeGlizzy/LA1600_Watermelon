@@ -37,7 +37,7 @@ Das Ziel ist es eine Webseite zu erstellen und diese per Github online zu stelle
 | 2.1  |Auf Mobilem gerät        |Auf einer Site|Die Navigation wir zu einem Hamburger Menu             |
 | 3.1  |Auf einer Unterseite     |klicken       |Beim klicken auf ein Lehrnziel wird es durchgestrichen |
 | 4.1  |Mauszeiger auf einem Bild|Hover         |Das Bild wird ein bisschen grösser                     |
-| 5.1  |Auf einer Unterseite     |Klick         |Karte kehrt sich um                                    |
+| 5.1  |Auf einer Unterseite     |Hover         |Karte zeigt Lösung an                                  |
 | 6.1  |Auf der DE Seite         |Lesen         |Richtig oder Falsch                                    |
 | 7.1  |Auf der EN Seite         |Lesen         |Richtig oder Falsch                                    |
 
@@ -128,8 +128,8 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 1.1  | 20.06.23|  funktioniert        | Lukas       |
 | 2.1  | 20.06.23|  funktioniert           | Lukas        |
 | 3.1  | 20.06.23| funktioniert   nicht         | Lukas        |
-| 4.1  | 20.06.23| funktioniert   nicht         | Lukas        |
-| 5.1  | 20.06.23| funktioniert   nicht          | Lukas        |
+| 4.1  | 20.06.23| funktioniert            | Lukas        |
+| 5.1  | 20.06.23| funktioniert             | Lukas        |
 | 6.1  | 20.06.23| funktioniert   nicht          | Lukas        |
 | 7.1  | 20.06.23| funktioniert   nicht          | Lukas        |
 | 8.1  | 20.06.23| funktioniert   nicht          | Lukas        |
