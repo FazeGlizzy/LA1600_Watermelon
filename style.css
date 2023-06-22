@@ -133,6 +133,16 @@ a {
   text-align: center;
   font-size: 4rem;
 }
+#mathe {
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  width: 90%;
+  transition: 0.2s;
+}
+#mathe:hover {
+  transform: scale(1.05);
+}
 
 @media (max-width: 768px) {
   /*Hamburger wir angezeigt unter 768 pixel */
