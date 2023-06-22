@@ -198,6 +198,9 @@ footer {
 .card .solution {
   display: none;
 }
+.card:hover .frage {
+  display: none;
+}
 
 .card:hover .solution {
   display: block;
