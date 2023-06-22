@@ -74,7 +74,7 @@ a {
   position: absolute;
   width: 100%;
   height: 2px;
-  background-color:  #61876E;
+  background-color:  black;
   transition-duration: 0.25s;
 }
 .menu__btn > span::before {
