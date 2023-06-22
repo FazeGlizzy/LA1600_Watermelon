@@ -116,6 +116,7 @@ Wir haben uns entschieden mit Visual Code zuarbeiten, da diese Software viele gu
 | 7.B  | 21.06      |  Brandon       |   45            |    angefangen    |
 | 6.B  | 21.06      |Lukas       |  45             |      30min           |
 | 6.C  | 21.06      |Lukas       |  45             |      weitergemacht Probleme mit der Anzeige ca50min versucht           |
+| 4.B  | 15.06      |  Yanik         |   45            |     2h             |
 
 ## 5 Kontrollieren
 
