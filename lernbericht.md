@@ -1,5 +1,5 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Watermelon bestehend aus: Steven Salie (GL), Lukas Heiniger, Brandon Spaqi und Yanik Müller ✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
 
 ## Einleitung
 
