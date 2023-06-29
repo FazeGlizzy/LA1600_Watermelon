@@ -29,6 +29,7 @@ wenn die Bedingung erfüllt ist.*/
 Hier ein Beispiel wie ein responsives Layout aussehen könnte.
 
 ![Video_AdobeExpress (1)](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/ebef99c8-a2b9-4c4b-a22c-0097cbc49381)
+<img src="https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/ebef99c8-a2b9-4c4b-a22c-0097cbc49381" alt="Video_AdobeExpress (1)" style="width: 500px;">
 
 
 
