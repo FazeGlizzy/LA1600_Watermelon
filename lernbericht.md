@@ -26,6 +26,8 @@ wenn die Bedingung erfüllt ist.*/
         text-align: center;
     }
 ```
+Hier ein Beispiel wie ein responsives Layout aussehen könnte.
+
 
 
 ## Verifikation
