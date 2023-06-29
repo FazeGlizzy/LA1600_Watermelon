@@ -143,3 +143,4 @@ Fazit: Stand 20.06 ist die Website fast fertig jedoch fehle wichtige Elemente wi
 
 ## 7 Quellen
 https://alvarotrigo.com/blog/hamburger-menu-css/
+https://github.com/FazeGlizzy/LA1600_Watermelon/blob/main/lernbericht.md
