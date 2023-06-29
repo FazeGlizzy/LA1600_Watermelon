@@ -37,9 +37,9 @@ Hier ein Beispiel wie ein responsives Layout aussehen könnte.
 
 ## Verifikation
 
-Der Text erklärt, wie man ein Responsive Layout macht. <br>
-Der Code gibt ein gutes Beispiel ab, an welchem man sich inspirieren lassen kann. <br>
-Das Gif zeigt das Reslultat, damit man sich vorstellen kann was das ganze genau bringt.
+Der Text erklärt, wie vielseitig @Media ist un für was man dies verwenden kann. <br>
+Der Code gibt ein gutes Beispiel ab wie man ein responsives Layout erstellt. <br>
+Das Gif zeigt das Reslultat, damit man sich vorstellen kann wie das ganze genau aussehen könnte.
 
 # Reflexion zum Arbeitsprozess
 
