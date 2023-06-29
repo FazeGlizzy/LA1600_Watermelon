@@ -9,8 +9,23 @@ Wir haben gelernt wie man @Media verwenden kann.
 Wir haben in unserem Projekt das @Media verwendet, um ein Burgermenü ab einer bestimmten Breite aus klappen zu lassen, jedoch hat @Media nicht nur eine Funktion, denn wir haben auch gelernt, wie man mit @Media ein einfaches responsives Layout erstellen kann. Dieses haben wir zwar nicht verwendet, jedoch haben wir es trotzdem gelernt. Wir haben uns nach langer Überlegung gegen das @Media Layout entschieden. Jedoch finden wir die Lösung mit @Media so einfach und toll, deswegen möchten wir dir zeigen wie das geht.
 
 Hier ein Code beispiel wie man mit @Media ein responsives Layout erstellt.
-![image](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046453/ec8ca8ae-9161-41b8-9799-833bb56946f0)
+```
 
+/*Media Querys ermöglichen es, 
+bestimmte CSS-Stile auf verschiedene Geräten anzuwenden, 
+wenn die Bedingung erfüllt ist.*/
+
+@media (max-width: 750px) {
+    
+    /*Das Grid-Layout verändert sich, wenn <750px */
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1.5fr 1fr;
+        grid-gap: 7px;
+        border-radius: 7px;
+        text-align: center;
+    }
+```
 
 
 ## Verifikation
