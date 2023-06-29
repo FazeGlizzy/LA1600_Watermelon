@@ -3,19 +3,11 @@ Watermelon bestehend aus: Steven Salie (GL), Lukas Heiniger, Brandon Spaqi und Y
 ## Einleitung
 
 Wir haben als Gruppe eine Lernwebsite mit HTML und CSS erstellt und auf Github veröffentlicht.
-
 ## Was habe ich gelernt?
-
-Wir haben gelernt wie man ein Responsive Layout mit @media gemacht haben.
-
+Wir haben gelernt wie man @Media verwenden kann.
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
