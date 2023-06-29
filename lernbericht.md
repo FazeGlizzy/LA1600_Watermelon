@@ -4,11 +4,11 @@ Wir sind die Gruppe Watermelon: Steven Salie (GL), Lukas Heiniger, Brandon Spaqi
 
 Wir haben als Gruppe eine Lernwebsite mit HTML und CSS erstellt und auf Github veröffentlicht.
 ## Was habe ich gelernt?
-Wir haben gelernt wie man @Media verwenden kann.
+Wir haben gelernt, wie man @Media verwenden kann.
 ## Beschreibung
 Wir haben in unserem Projekt das @Media verwendet, um ein Burgermenü ab einer bestimmten Breite aus klappen zu lassen, jedoch hat @Media nicht nur eine Funktion, denn wir haben auch gelernt, wie man mit @Media ein einfaches responsives Layout erstellen kann. Dieses haben wir zwar nicht verwendet, jedoch haben wir es trotzdem gelernt. Wir haben uns nach langer Überlegung gegen das @Media Layout entschieden. Jedoch finden wir die Lösung mit @Media so einfach und toll, deswegen möchten wir dir zeigen wie das geht.
 
-Hier ein Code beispiel wie man mit @Media ein responsives Layout erstellt.
+Hier ein Code Beispiel, wie man mit @Media ein responsives Layout erstellt.
 ```css
 
 /*Media Querys ermöglichen es, 
@@ -26,7 +26,7 @@ wenn die Bedingung erfüllt ist.*/
         text-align: center;
     }
 ```
-Hier ein Beispiel wie ein responsives Layout aussehen könnte.
+Hier ein Beispiel, wie ein responsives Layout aussehen könnte.
 
 
 <img src="https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046378/ebef99c8-a2b9-4c4b-a22c-0097cbc49381" alt="Video_AdobeExpress (1)" style="width: 500px;">
@@ -37,14 +37,14 @@ Hier ein Beispiel wie ein responsives Layout aussehen könnte.
 
 ## Verifikation
 
-Der Text erklärt, wie vielseitig @Media ist un für was man dies verwenden kann. <br>
-Der Code gibt ein gutes Beispiel ab wie man ein responsives Layout erstellt. <br>
-Das Gif zeigt das Reslultat, damit man sich vorstellen kann wie das ganze genau aussehen könnte.
+Der Text erklärt, wie vielseitig @Media ist und wofür man dies verwenden kann. <br>
+Der Code gibt ein gutes Beispiel ab, wie man ein responsives Layout erstellt. <br>
+Das GIF zeigt das Resultat, damit man sich vorstellen kann, wie das ganze genau aussehen könnte.
 
 # Reflexion zum Arbeitsprozess
 
 Die Arbeitsaufteilung war echt gut, da wir die Aufträge fair aufgeteilt haben.
 
-Die zusammen Arbeit war teilweise etwas schwierig, da nicht immer auf Nachrichten geachtet wurden. 
+Die zusammen Arbeit war teilweise etwas schwierig, da nicht immer auf Nachrichten geachtet wurden.
 
-**VBV**: Eine Regel aufstellen welche besagt,dass man jeden Tag auf das Handy schauen soll und dann auch antworten.
+VBV: Eine Regel aufstellen, welche besagt, dass man jeden Tag auf das Handy schauen soll und dann auch antworten.
