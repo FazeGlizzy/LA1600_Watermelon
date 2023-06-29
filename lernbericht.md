@@ -6,6 +6,7 @@ Wir haben als Gruppe eine Lernwebsite mit HTML und CSS erstellt und auf Github v
 ## Was habe ich gelernt?
 Wir haben gelernt wie man @Media verwenden kann.
 ## Beschreibung
+Wir haben in unserem Projekt das @Media verwendet, um ein Burgermenü ab einer bestimmten Breite aus klappen zu lassen, jedoch hat @Media nicht nur eine Funktion, denn wir haben auch gelernt, wie man mit @Media ein einfaches responsives Layout erstellen kann. Dieses haben wir zwar nicht verwendet, jedoch haben wir es trotzdem gelernt. Wir haben uns nach langer Überlegung gegen das @Media Layout entschieden. Jedoch finden wir die Lösung mit @Media so einfach und toll, deswegen möchten wir dir zeigen wie das geht.
 ![image](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046453/ec8ca8ae-9161-41b8-9799-833bb56946f0)
 
 
