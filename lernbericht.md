@@ -6,7 +6,7 @@ Wir haben als Gruppe eine Lernwebsite mit HTML und CSS erstellt und auf Github v
 
 ## Was habe ich gelernt?
 
-Wir haben
+Wir haben gelernt wie man ein Responsive Layout mit @media gemacht haben.
 
 ## Beschreibung
 
@@ -19,7 +19,9 @@ Wir haben
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Der Text erklärt wie man ein Responsive Layout macht.
+Der Code gibt ein gutes Beispiel ab an welchem man sich inspirieren lassen kann.
+Das Gif zeigt das Reslultat, damit man sich vorstellen kann was das ganze genau bringt.
 
 # Reflexion zum Arbeitsprozess
 
