@@ -6,6 +6,7 @@ Wir haben als Gruppe eine Lernwebsite mit HTML und CSS erstellt und auf Github v
 ## Was habe ich gelernt?
 Wir haben gelernt wie man @Media verwenden kann.
 ## Beschreibung
+![image](https://github.com/FazeGlizzy/LA1600_Watermelon/assets/111046453/ec8ca8ae-9161-41b8-9799-833bb56946f0)
 
 
 
