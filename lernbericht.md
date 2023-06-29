@@ -9,7 +9,7 @@ Wir haben gelernt wie man @Media verwenden kann.
 Wir haben in unserem Projekt das @Media verwendet, um ein Burgermenü ab einer bestimmten Breite aus klappen zu lassen, jedoch hat @Media nicht nur eine Funktion, denn wir haben auch gelernt, wie man mit @Media ein einfaches responsives Layout erstellen kann. Dieses haben wir zwar nicht verwendet, jedoch haben wir es trotzdem gelernt. Wir haben uns nach langer Überlegung gegen das @Media Layout entschieden. Jedoch finden wir die Lösung mit @Media so einfach und toll, deswegen möchten wir dir zeigen wie das geht.
 
 Hier ein Code beispiel wie man mit @Media ein responsives Layout erstellt.
-```
+```css
 
 /*Media Querys ermöglichen es, 
 bestimmte CSS-Stile auf verschiedene Geräten anzuwenden, 
