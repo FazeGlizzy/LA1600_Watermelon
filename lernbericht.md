@@ -1,5 +1,5 @@
 # Lern-Bericht
-Watermelon bestehend aus: Steven Salie (GL), Lukas Heiniger, Brandon Spaqi und Yanik Müller 
+Wir sind die Gruppe Watermelon: Steven Salie (GL), Lukas Heiniger, Brandon Spaqi und Yanik Müller 
 ## Einleitung
 
 Wir haben als Gruppe eine Lernwebsite mit HTML und CSS erstellt und auf Github veröffentlicht.
@@ -32,8 +32,8 @@ Hier ein Beispiel wie ein responsives Layout aussehen könnte.
 
 ## Verifikation
 
-Der Text erklärt wie man ein Responsive Layout macht.
-Der Code gibt ein gutes Beispiel ab an welchem man sich inspirieren lassen kann.
+Der Text erklärt, wie man ein Responsive Layout macht.
+Der Code gibt ein gutes Beispiel ab, an welchem man sich inspirieren lassen kann.
 Das Gif zeigt das Reslultat, damit man sich vorstellen kann was das ganze genau bringt.
 
 # Reflexion zum Arbeitsprozess
