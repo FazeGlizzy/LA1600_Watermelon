@@ -12,7 +12,7 @@ Hier ein Code beispiel wie man mit @Media ein responsives Layout erstellt.
 ```css
 
 /*Media Querys ermöglichen es, 
-bestimmte CSS-Stile auf verschiedene Geräten anzuwenden, 
+bestimmte CSS-Stile anzuwenden, 
 wenn die Bedingung erfüllt ist.*/
 
 @media (max-width: 750px) {
