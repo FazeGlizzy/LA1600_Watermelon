@@ -1,13 +1,12 @@
 # Lern-Bericht
-Watermelon bestehend aus: Steven Salie (GL), Lukas Heiniger, Brandon Spaqi und Yanik Müller ✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
-
+Watermelon bestehend aus: Steven Salie (GL), Lukas Heiniger, Brandon Spaqi und Yanik Müller 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir haben als Gruppe eine Lernwebsite mit HTML und CSS erstellt und auf Github veröffentlicht.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben
 
 ## Beschreibung
 
@@ -24,8 +23,8 @@ Watermelon bestehend aus: Steven Salie (GL), Lukas Heiniger, Brandon Spaqi und Y
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Die Arbeitsaufteilung war echt gut, da wir die Aufträge fair aufgeteilt haben.
 
-👎 und etwas, was nicht gut lief.
+Die zusammen Arbeit war teilweise etwas schwierig, da nicht immer auf Nachrichten geachtet wurden. 
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: Eine Regel aufstellen welche besagt,dass man jeden Tag auf das Handy schauen soll und dann auch antworten.
